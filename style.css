@@ -18,3 +18,12 @@
 h4 {
     margin-top: 10px;
 }
+
+select {
+    width: 60px !important;
+    margin: 10px 0;
+} 
+
+.action > * {
+    display: inline-block;
+}

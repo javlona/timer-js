@@ -45,5 +45,3 @@ function timer() {
 
     displayTimer.innerText = `${hour}h:${minute}m:${second}s`
 }
-
-console.log(second, minute, hour)
